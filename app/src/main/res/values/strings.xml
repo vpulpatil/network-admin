@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NetworkAdmin</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">Commands</string>
+    <string name="title_activity_ping">Ping</string>
+    <string name="title_activity_telnet">ifconfig</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Registration</string>
+    <string name="commands">Commands</string>
+    <string name="title_activity_connection">Connection</string>
+    <string name="ip_input">Enter IP Address</string>
+    <string name="connect">Connect</string>
+    <string name="clear">Clear</string>
+    <string name="ping_it">ping www.google.com</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="network_admin">Network Admin</string>
+    <string name="title_activity_netstat">Netstat</string>
+    <string name="result">Result:</string>
+</resources>
